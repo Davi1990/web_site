@@ -1,6 +1,6 @@
 # Whole-brain, Connectome-based Models of Brain Dynamics: From Principles to Applications
 
-This is the official Repository of the OHBM's Educational Course entitled Whole-brain, Connectome-based Models of Brain Dynamics: From Principles to Applications organized by Dr. Davide Momi, Dr. John Griffiths & Joana Cabral
+This is the official Repository of the OHBM's Educational Course entitled Whole-brain, Connectome-based Models of Brain Dynamics: From Principles to Applications organized by Dr. Davide Momi, Dr. John Griffiths & Dr. Joana Cabral
 
 
 ![alt text](https://raw.githubusercontent.com/GriffithsLab/OHBM-educational-course/main/logo.jpeg)
